@@ -1,1 +1,1 @@
-# fighter-site
+# fighter-site.github.io
