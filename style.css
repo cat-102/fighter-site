@@ -1,0 +1,23 @@
+body{
+	background-color:black;
+	color:white;
+}
+h1{
+	color:white;
+	text-align:center;
+}
+p{
+	color:white;
+}
+#p1{
+ color:yellow;
+}	
+#p2{
+ color:grey;
+}	
+#p3{
+ color:red;
+}	
+#p4{
+	color:purple;
+}	
